@@ -1,1 +1,1 @@
-# SonataAdminLearning
+# Learning SonataAdminBundle
